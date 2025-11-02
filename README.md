@@ -9,13 +9,9 @@ unitarias de validez física.
 - Movimiento rectilíneo uniforme entre colisiones.
 - Colisiones con paredes perfectamente elásticas.
 - Energía cinética total aproximadamente constante.
-- Temperatura efectiva en 2D a partir de equipartición:
-  \[
-  \langle E_k \rangle = \frac{f}{2} k_B T, \quad f=2 \Rightarrow
-  \langle E_k \rangle = k_B T, \quad \text{y} \quad
-  \langle E_k \rangle = \frac{1}{2} m \langle v^2 \rangle
-  \Rightarrow T = \frac{m \langle v^2 \rangle}{2 k_B}.
-  \]
+- Temperatura efectiva en 2D a partir de equipartición:  
+  $$\langle E_k \rangle = \frac{f}{2} k_B T, \quad f = 2 \Rightarrow \langle E_k \rangle = k_B T, \quad \text{y} \quad \langle E_k \rangle = \frac{1}{2} m \langle v^2 \rangle \Rightarrow T = \frac{m \langle v^2 \rangle}{2 k_B}.$$
+
 
 ## Requisitos
 - Python 3.10+
